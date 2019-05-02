@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.TypeHierarchyAdapterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:50" hostname="coras-air.dynamic.ucsd.edu" time="0.007">
+  <properties/>
+  <testcase name="testTypeHierarchy" classname="com.google.gson.functional.TypeHierarchyAdapterTest" time="0.006"/>
+  <testcase name="testRegisterSuperTypeFirst" classname="com.google.gson.functional.TypeHierarchyAdapterTest" time="0.0"/>
+  <testcase name="testRegisterSubTypeFirstAllowed" classname="com.google.gson.functional.TypeHierarchyAdapterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

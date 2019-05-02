@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.ArrayTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.026">
+  <properties/>
+  <testcase name="testArrayOfStringsSerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testMixingTypesInObjectArraySerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testInvalidArrayDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.001"/>
+  <testcase name="testArrayOfNullSerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testEmptyArraySerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testMultidimenstionalArraysSerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testSingleStringArraySerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testMultiDimenstionalObjectArraysSerialization" classname="com.google.gson.functional.ArrayTest" time="0.001"/>
+  <testcase name="testSingleStringArrayDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testEmptyArrayDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testArrayElementsAreArrays" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testNullsInArrayWithSerializeNullPropertySetSerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testArrayOfCollectionSerialization" classname="com.google.gson.functional.ArrayTest" time="0.002"/>
+  <testcase name="testArrayOfNullDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.007"/>
+  <testcase name="testArrayOfCollectionDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.001"/>
+  <testcase name="testTopLevelArrayOfIntsDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testArrayOfPrimitivesAsObjectsSerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testNullsInArrayDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testObjectArrayWithNonPrimitivesSerialization" classname="com.google.gson.functional.ArrayTest" time="0.001"/>
+  <testcase name="testSingleNullInArrayDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.001"/>
+  <testcase name="testSingleNullInArraySerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testArrayOfPrimitivesAsObjectsDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.002"/>
+  <testcase name="testNullsInArraySerialization" classname="com.google.gson.functional.ArrayTest" time="0.002"/>
+  <testcase name="testMultidimenstionalArraysDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.001"/>
+  <testcase name="testTopLevelArrayOfIntsSerialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <testcase name="testArrayOfStringsDeserialization" classname="com.google.gson.functional.ArrayTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

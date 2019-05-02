@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.DefaultTypeAdaptersTest" tests="65" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.067">
+  <properties/>
+  <testcase name="testDefaultDateDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testLocaleSerializationWithLanguageCountryVariant" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.003"/>
+  <testcase name="testSqlDateSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.002"/>
+  <testcase name="testUrlSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.004"/>
+  <testcase name="testJsonObjectDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testBigIntegerFieldDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.003"/>
+  <testcase name="testBadValueForBigDecimalDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testJsonArraySerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testLocaleDeserializationWithLanguage" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testDefaultJavaSqlTimeSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testJsonPrimitiveSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testStringBuilderDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testDateSerializationInCollection" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.002"/>
+  <testcase name="testJsonArrayDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testTimestampSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.002"/>
+  <testcase name="testStringBuilderSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testUrlNullDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.004"/>
+  <testcase name="testUrlDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testJsonObjectSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultJavaSqlTimestampDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.003"/>
+  <testcase name="testNullSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.004"/>
+  <testcase name="testUuidDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultDateSerializationUsingBuilder" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.003"/>
+  <testcase name="testBitSetSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultJavaSqlTimestampSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultDateSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testTreeSetSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testBigDecimalFieldDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testUriSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testLocaleDeserializationWithLanguageCountryVariant" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testUuidSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testLocaleSerializationWithLanguage" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testStringBufferDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultGregorianCalendarSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.002"/>
+  <testcase name="testLocaleDeserializationWithLanguageCountry" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testJsonElementTypeMismatch" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testBigDecimalFieldSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testOverrideBigIntegerTypeAdapter" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testDefaultCalendarSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.005"/>
+  <testcase name="testBitSetDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testJsonNullDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testDefaultJavaSqlDateSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testTreeSetDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testUriDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testOverrideBigDecimalTypeAdapter" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testPropertiesDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testJsonNullSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testPropertiesSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testClassDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testDateSerializationWithPattern" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testSetSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultJavaSqlTimeDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.002"/>
+  <testcase name="testUrlNullSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.002"/>
+  <testcase name="testDateDeserializationWithPattern" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.002"/>
+  <testcase name="testLocaleSerializationWithLanguageCountry" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultDateDeserializationUsingBuilder" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testClassSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testBigIntegerFieldSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultCalendarDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.003"/>
+  <testcase name="testDefaultGregorianCalendarDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDateSerializationWithPatternNotOverridenByTypeAdapter" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <testcase name="testNullJsonElementSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testJsonPrimitiveDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testStringBufferSerialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDefaultJavaSqlDateDeserialization" classname="com.google.gson.functional.DefaultTypeAdaptersTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

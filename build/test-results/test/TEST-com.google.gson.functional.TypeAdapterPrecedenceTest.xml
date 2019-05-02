@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.TypeAdapterPrecedenceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:50" hostname="coras-air.dynamic.ucsd.edu" time="0.009">
+  <properties/>
+  <testcase name="testStreamingFollowedByNonstreaming" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.003"/>
+  <testcase name="testSerializeNonstreamingTypeAdapterFollowedByStreamingTypeAdapter" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.0"/>
+  <testcase name="testNonstreamingFollowedByNonstreaming" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.001"/>
+  <testcase name="testStreamingHierarchicalFollowedByNonstreaming" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.0"/>
+  <testcase name="testStreamingFollowedByStreaming" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.0"/>
+  <testcase name="testNonstreamingHierarchicalFollowedByNonstreaming" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.0"/>
+  <testcase name="testStreamingHierarchicalFollowedByNonstreamingHierarchical" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.0"/>
+  <testcase name="testStreamingFollowedByNonstreamingHierarchical" classname="com.google.gson.functional.TypeAdapterPrecedenceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

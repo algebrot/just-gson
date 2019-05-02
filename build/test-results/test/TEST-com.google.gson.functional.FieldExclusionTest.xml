@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.FieldExclusionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:50" hostname="coras-air.dynamic.ucsd.edu" time="0.002">
+  <properties/>
+  <testcase name="testDefaultInnerClassExclusion" classname="com.google.gson.functional.FieldExclusionTest" time="0.002"/>
+  <testcase name="testDefaultNestedStaticClassIncluded" classname="com.google.gson.functional.FieldExclusionTest" time="0.0"/>
+  <testcase name="testInnerClassExclusion" classname="com.google.gson.functional.FieldExclusionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

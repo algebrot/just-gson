@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.StreamingTypeAdaptersTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.019">
+  <properties/>
+  <testcase name="testSerialize2dArray" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.001"/>
+  <testcase name="testNullSafe" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.006"/>
+  <testcase name="testSerializeWithCustomTypeAdapter" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.003"/>
+  <testcase name="testDeserialize1dArray" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDeserialize2dArray" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.004"/>
+  <testcase name="testDeserializeWithCustomTypeAdapter" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testSerialize" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.001"/>
+  <testcase name="testDeserializeNullField" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDeserializeNullObject" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.001"/>
+  <testcase name="testFromJsonTree" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDeserializeMap" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testDeserialize" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.001"/>
+  <testcase name="testSerialize1dArray" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.001"/>
+  <testcase name="testSerializeNullField" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testSerializeNullObject" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testSerializeMap" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.0"/>
+  <testcase name="testSerializeRecursive" classname="com.google.gson.functional.StreamingTypeAdaptersTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.internal.bind.JsonTreeWriterTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.017">
+  <properties/>
+  <testcase name="testPrematureClose" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.001"/>
+  <testcase name="testSerializeNullsFalse" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testLenientNansAndInfinities" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testArray" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.001"/>
+  <testcase name="testStrictNansAndInfinities" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testEmptyWriter" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testStrictBoxedNansAndInfinities" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testWriteAfterClose" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testObject" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testNestedObject" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.0"/>
+  <testcase name="testNestedArray" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.001"/>
+  <testcase name="testSerializeNullsTrue" classname="com.google.gson.internal.bind.JsonTreeWriterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.JsonStreamParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.021">
+  <properties/>
+  <testcase name="testCallingNextBeyondAvailableInput" classname="com.google.gson.JsonStreamParserTest" time="0.019"/>
+  <testcase name="testParseTwoStrings" classname="com.google.gson.JsonStreamParserTest" time="0.0"/>
+  <testcase name="testNoSideEffectForHasNext" classname="com.google.gson.JsonStreamParserTest" time="0.0"/>
+  <testcase name="testIterator" classname="com.google.gson.JsonStreamParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

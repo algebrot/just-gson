@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.JsonParserTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.033">
+  <properties/>
+  <testcase name="testParseUnquotedMultiWordStringFails" classname="com.google.gson.JsonParserTest" time="0.002"/>
+  <testcase name="testParseReader" classname="com.google.gson.JsonParserTest" time="0.004"/>
+  <testcase name="testParseString" classname="com.google.gson.JsonParserTest" time="0.0"/>
+  <testcase name="testReadWriteTwoObjects" classname="com.google.gson.JsonParserTest" time="0.021"/>
+  <testcase name="testParseUnquotedSingleWordStringFails" classname="com.google.gson.JsonParserTest" time="0.001"/>
+  <testcase name="testParseMixedArray" classname="com.google.gson.JsonParserTest" time="0.001"/>
+  <testcase name="testParseEmptyString" classname="com.google.gson.JsonParserTest" time="0.001"/>
+  <testcase name="testParseUnquotedStringArrayFails" classname="com.google.gson.JsonParserTest" time="0.0"/>
+  <testcase name="testParseEmptyWhitespaceInput" classname="com.google.gson.JsonParserTest" time="0.001"/>
+  <testcase name="testParseInvalidJson" classname="com.google.gson.JsonParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

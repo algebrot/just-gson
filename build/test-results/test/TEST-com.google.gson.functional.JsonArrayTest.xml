@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.JsonArrayTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.003">
+  <properties/>
+  <testcase name="testMixedPrimitiveAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.0"/>
+  <testcase name="testIntegerPrimitiveAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.001"/>
+  <testcase name="testNullPrimitiveAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.0"/>
+  <testcase name="testBooleanPrimitiveAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.0"/>
+  <testcase name="testDoublePrimitiveAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.001"/>
+  <testcase name="testStringPrimitiveAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.0"/>
+  <testcase name="testSameAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.0"/>
+  <testcase name="testCharPrimitiveAddition" classname="com.google.gson.functional.JsonArrayTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

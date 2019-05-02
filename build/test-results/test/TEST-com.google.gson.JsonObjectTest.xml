@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.JsonObjectTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.013">
+  <properties/>
+  <testcase name="testReadPropertyWithEmptyStringName" classname="com.google.gson.JsonObjectTest" time="0.001"/>
+  <testcase name="testSize" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <testcase name="testEqualsOnEmptyObject" classname="com.google.gson.JsonObjectTest" time="0.002"/>
+  <testcase name="testPropertyWithQuotes" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <testcase name="testAddingCharacterProperties" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <testcase name="testAddingNullPropertyValue" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <testcase name="testEqualsNonEmptyObject" classname="com.google.gson.JsonObjectTest" time="0.001"/>
+  <testcase name="testAddingAndRemovingObjectProperties" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <testcase name="testAddingBooleanProperties" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <testcase name="testDeepCopy" classname="com.google.gson.JsonObjectTest" time="0.001"/>
+  <testcase name="testKeySet" classname="com.google.gson.JsonObjectTest" time="0.001"/>
+  <testcase name="testAddingStringProperties" classname="com.google.gson.JsonObjectTest" time="0.001"/>
+  <testcase name="testWritePropertyWithEmptyStringName" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <testcase name="testAddingNullOrEmptyPropertyName" classname="com.google.gson.JsonObjectTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

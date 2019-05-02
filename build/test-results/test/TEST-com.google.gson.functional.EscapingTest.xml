@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.EscapingTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.007">
+  <properties/>
+  <testcase name="testGsonAcceptsEscapedAndNonEscapedJsonDeserialization" classname="com.google.gson.functional.EscapingTest" time="0.002"/>
+  <testcase name="testEscapeAllHtmlCharacters" classname="com.google.gson.functional.EscapingTest" time="0.001"/>
+  <testcase name="testEscapingQuotesInStringArray" classname="com.google.gson.functional.EscapingTest" time="0.0"/>
+  <testcase name="testEscapingObjectFields" classname="com.google.gson.functional.EscapingTest" time="0.001"/>
+  <testcase name="testGsonDoubleDeserialization" classname="com.google.gson.functional.EscapingTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

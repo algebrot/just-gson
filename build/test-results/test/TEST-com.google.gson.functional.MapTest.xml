@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.MapTest" tests="48" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.072">
+  <properties/>
+  <testcase name="testMapDeserializationEmpty" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testCustomSerializerForSpecificMapType" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapSubclassDeserialization" classname="com.google.gson.functional.MapTest" time="0.004"/>
+  <testcase name="testHashMapDeserialization" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <testcase name="testMapDeserializationWithNullKey" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <testcase name="testMapSubclassSerialization" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <testcase name="testSerializeMaps" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapDeserializationWithWildcardValues" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testReadMapsWithEmptyStringKey" classname="com.google.gson.functional.MapTest" time="0.003"/>
+  <testcase name="testMapSerializationWithIntegerKeys" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapDeserializationWithDuplicateKeys" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testParameterizedMapSubclassSerialization" classname="com.google.gson.functional.MapTest" time="0.003"/>
+  <testcase name="testConcurrentMap" classname="com.google.gson.functional.MapTest" time="0.003"/>
+  <testcase name="testMapDeserialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapDeserializationWithUnquotedLongKeys" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapSerializationWithNullValuesSerialized" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testConcurrentHashMap" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <testcase name="testMapStandardSubclassDeserialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapDeserializationWithLongKeys" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testBooleanKeyDeserialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testDeerializeMapOfMaps" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapDeserializationWithIntegerKeys" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapWithQuotes" classname="com.google.gson.functional.MapTest" time="0.0"/>
+  <testcase name="testConcurrentNavigableMap" classname="com.google.gson.functional.MapTest" time="0.007"/>
+  <testcase name="testMapOfMapSerialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapSerialization" classname="com.google.gson.functional.MapTest" time="0.0"/>
+  <testcase name="testMapOfMapDeserialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testComplexKeysDeserialization" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <testcase name="testMapSerializationWithNullValue" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testWriteMapsWithEmptyStringKey" classname="com.google.gson.functional.MapTest" time="0.0"/>
+  <testcase name="testSortedMap" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <testcase name="testInterfaceTypeMap" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapSerializationWithWildcardValues" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapSerializationWithNullValues" classname="com.google.gson.functional.MapTest" time="0.0"/>
+  <testcase name="testConcurrentSkipListMap" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <testcase name="testGeneralMapField" classname="com.google.gson.functional.MapTest" time="0.003"/>
+  <testcase name="testMapSerializationWithNullValueButSerializeNulls" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testRawMapSerialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapDeserializationWithNullValue" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testComplexKeysSerialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapSerializationEmpty" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testStringKeyDeserialization" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testSerializeMapOfMaps" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapDeserializationWithUnquotedIntegerKeys" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testMapNamePromotionWithJsonElementReader" classname="com.google.gson.functional.MapTest" time="0.001"/>
+  <testcase name="testNumberKeyDeserialization" classname="com.google.gson.functional.MapTest" time="0.0"/>
+  <testcase name="testMapSerializationWithNullKey" classname="com.google.gson.functional.MapTest" time="0.0"/>
+  <testcase name="testInterfaceTypeMapWithSerializer" classname="com.google.gson.functional.MapTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

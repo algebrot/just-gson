@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.metrics.PerformanceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:47" hostname="coras-air.dynamic.ucsd.edu" time="0.075">
+  <properties/>
+  <testcase name="testDummy" classname="com.google.gson.metrics.PerformanceTest" time="0.075"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

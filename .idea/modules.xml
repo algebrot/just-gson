@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.iml" filepath="$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gson_sub/gson_sub.gson_sub.iml" filepath="$PROJECT_DIR$/.idea/modules/gson_sub/gson_sub.gson_sub.iml" />
+    </modules>
+  </component>
+</project>

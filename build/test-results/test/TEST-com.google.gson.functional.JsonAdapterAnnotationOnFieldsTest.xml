@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.03">
+  <properties/>
+  <testcase name="testRegisteredTypeAdapterTakesPrecedenceOverClassAnnotationAdapter" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.006"/>
+  <testcase name="testFieldAnnotationTakesPrecedenceOverClassAnnotation" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.001"/>
+  <testcase name="testFieldAnnotationTakesPrecedenceOverRegisteredTypeAdapter" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.007"/>
+  <testcase name="testJsonAdapterWrappedInNullSafeAsRequested" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.001"/>
+  <testcase name="testPrimitiveFieldAnnotationTakesPrecedenceOverDefault" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.003"/>
+  <testcase name="testFieldAnnotationWorksForParameterizedType" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.002"/>
+  <testcase name="testNonPrimitiveFieldAnnotationTakesPrecedenceOverDefault" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.002"/>
+  <testcase name="testClassAnnotationAdapterTakesPrecedenceOverDefault" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.001"/>
+  <testcase name="testJsonAdapterInvokedOnlyForAnnotatedFields" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.001"/>
+  <testcase name="testClassAnnotationAdapterFactoryTakesPrecedenceOverDefault" classname="com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

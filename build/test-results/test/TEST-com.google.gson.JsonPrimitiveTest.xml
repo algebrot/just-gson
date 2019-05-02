@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.JsonPrimitiveTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.009">
+  <properties/>
+  <testcase name="testFloatEqualsBigDecimal" classname="com.google.gson.JsonPrimitiveTest" time="0.001"/>
+  <testcase name="testShortEqualsBigInteger" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testByteEqualsLong" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testNulls" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testEqualsIntegerAndBigInteger" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testDoubleEqualsBigDecimal" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testBoolean" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testShortEqualsLong" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testValidJsonOnToString" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testParsingStringAsBoolean" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testByteEqualsBigInteger" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testFloatEqualsDouble" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testLongEqualsBigInteger" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testByteEqualsInteger" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testIntegerEqualsLong" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testIntegerEqualsBigInteger" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testShortEqualsInteger" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testStringsAndChar" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testEqualsDoesNotEquateStringAndNonStringTypes" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testEquals" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testDeepCopy" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testByteEqualsShort" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testExponential" classname="com.google.gson.JsonPrimitiveTest" time="0.004"/>
+  <testcase name="testParsingStringAsNumber" classname="com.google.gson.JsonPrimitiveTest" time="0.0"/>
+  <testcase name="testEqualsAcrossTypes" classname="com.google.gson.JsonPrimitiveTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

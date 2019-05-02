@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.reflect.TypeTokenTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.009">
+  <properties/>
+  <testcase name="testIsAssignableFromWithNestedWildcards" classname="com.google.gson.reflect.TypeTokenTest" time="0.002"/>
+  <testcase name="testArrayFactory" classname="com.google.gson.reflect.TypeTokenTest" time="0.003"/>
+  <testcase name="testIsAssignableFromWithTypeParameters" classname="com.google.gson.reflect.TypeTokenTest" time="0.001"/>
+  <testcase name="testIsAssignableFromWithBasicWildcards" classname="com.google.gson.reflect.TypeTokenTest" time="0.0"/>
+  <testcase name="testParameterizedFactory" classname="com.google.gson.reflect.TypeTokenTest" time="0.003"/>
+  <testcase name="testIsAssignableFromRawTypes" classname="com.google.gson.reflect.TypeTokenTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

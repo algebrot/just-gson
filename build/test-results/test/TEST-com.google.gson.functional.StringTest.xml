@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.functional.StringTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:49" hostname="coras-air.dynamic.ucsd.edu" time="0.007">
+  <properties/>
+  <testcase name="testStringValueDeserialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testEscapedCtrlNInStringSerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testSingleQuoteInStringSerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testEscapedCtrlRInStringSerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testEscapingQuotesInStringSerialization" classname="com.google.gson.functional.StringTest" time="0.001"/>
+  <testcase name="testJavascriptKeywordsInStringSerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testStringWithEscapedSlashDeserialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testSingleQuoteInStringDeserialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testStringValueAsSingleElementArraySerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testAssignmentCharDeserialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testEscapedBackslashInStringSerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testEscapingQuotesInStringDeserialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testEscapedCtrlRInStringDeserialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testJavascriptKeywordsInStringDeserialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testAssignmentCharSerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <testcase name="testEscapedCtrlNInStringDeserialization" classname="com.google.gson.functional.StringTest" time="0.001"/>
+  <testcase name="testEscapedBackslashInStringDeserialization" classname="com.google.gson.functional.StringTest" time="0.005"/>
+  <testcase name="testStringValueSerialization" classname="com.google.gson.functional.StringTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

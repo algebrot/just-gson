@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.internal.bind.RecursiveTypesResolveTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.018">
+  <properties/>
+  <testcase name="testDoubleSupertype" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.0"/>
+  <testcase name="testIssue440WeakReference" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.004"/>
+  <testcase name="testSubSupertype" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.0"/>
+  <testcase name="testDoubleSubtype" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.0"/>
+  <testcase name="testRecursiveTypeVariablesResolve12" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.002"/>
+  <testcase name="testRecursiveTypeVariablesResolve1" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.001"/>
+  <testcase name="testIssue603PrintStream" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.009"/>
+  <testcase name="testSuperSubtype" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.0"/>
+  <testcase name="testRecursiveResolveSimple" classname="com.google.gson.internal.bind.RecursiveTypesResolveTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

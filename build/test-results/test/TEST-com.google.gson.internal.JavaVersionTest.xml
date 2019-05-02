@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.gson.internal.JavaVersionTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-05-02T19:54:48" hostname="coras-air.dynamic.ucsd.edu" time="0.002">
+  <properties/>
+  <testcase name="testUnknownVersionFormat" classname="com.google.gson.internal.JavaVersionTest" time="0.0"/>
+  <testcase name="testJava6" classname="com.google.gson.internal.JavaVersionTest" time="0.0"/>
+  <testcase name="testJava7" classname="com.google.gson.internal.JavaVersionTest" time="0.0"/>
+  <testcase name="testJava8" classname="com.google.gson.internal.JavaVersionTest" time="0.0"/>
+  <testcase name="testJava9" classname="com.google.gson.internal.JavaVersionTest" time="0.001"/>
+  <testcase name="testJava10" classname="com.google.gson.internal.JavaVersionTest" time="0.0"/>
+  <testcase name="testGetMajorJavaVersion" classname="com.google.gson.internal.JavaVersionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

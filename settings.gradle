@@ -1,0 +1,2 @@
+include ':gson_sub'
+includeBuild '../InvariantsPluginGradle'
