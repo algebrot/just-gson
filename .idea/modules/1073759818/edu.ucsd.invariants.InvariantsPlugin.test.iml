@@ -50,15 +50,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/caches/5.4/generated-gradle-jars/gradle-test-kit-5.4.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.4-bin/59btlbly62hzjka9h1c4c86kd/gradle-5.4/lib/groovy-all-1.0-2.5.4.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -69,6 +60,15 @@
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.4-bin/59btlbly62hzjka9h1c4c86kd/gradle-5.4/lib/gradle-installation-beacon-5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/5.4/generated-gradle-jars/gradle-test-kit-5.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
