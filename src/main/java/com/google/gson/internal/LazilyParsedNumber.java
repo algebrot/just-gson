@@ -17,6 +17,7 @@ package com.google.gson.internal;
 
 import java.io.ObjectStreamException;
 import java.math.BigDecimal;
+import java.math.BigInteger;
 
 /**
  * This class holds a number value that is lazily converted to a specific number type
@@ -39,7 +40,8 @@ public final class LazilyParsedNumber extends Number {
       try {
         return (int) Long.parseLong(value);
       } catch (NumberFormatException nfe) {
-        return new BigDecimal(value).intValue();
+        return new BigInteger(value).intValue();
+        //return new BigDecimal(value).intValue();
       }
     }
   }
@@ -49,7 +51,8 @@ public final class LazilyParsedNumber extends Number {
     try {
       return Long.parseLong(value);
     } catch (NumberFormatException e) {
-      return new BigDecimal(value).longValue();
+      return new BigInteger(value).longValue();
+      //return new BigDecimal(value).longValue();
     }
   }
 
