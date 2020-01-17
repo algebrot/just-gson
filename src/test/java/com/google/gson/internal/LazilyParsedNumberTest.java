@@ -15,9 +15,20 @@
  */
 package com.google.gson.internal;
 
+import com.google.gson.Gson;
 import junit.framework.TestCase;
 
 public class LazilyParsedNumberTest extends TestCase {
+
+  // PrimitiveTest.java
+  private Gson gson;
+
+  @Override
+  protected void setUp() throws Exception {
+    super.setUp();
+    gson = new Gson();
+  }
+
   public void testHashCode() {
     LazilyParsedNumber n1 = new LazilyParsedNumber("1");
     LazilyParsedNumber n1Another = new LazilyParsedNumber("1");
@@ -29,4 +40,26 @@ public class LazilyParsedNumberTest extends TestCase {
     LazilyParsedNumber n1Another = new LazilyParsedNumber("1");
     assertTrue(n1.equals(n1Another));
   }
+
+  public void testIntValue() {
+    String json = "1";
+    Number expected = new Integer(json);
+    Number actual = gson.fromJson(json, Number.class);
+    assertEquals(expected.intValue(), actual.intValue());
+
+    Number value = gson.fromJson("\"18.0\"", Number.class);
+    assertEquals(18, value.intValue());
+  }
+
+  public void testLongValue() {
+    String json = String.valueOf(Long.MAX_VALUE);
+    Number expected = new Long(json);
+    Number actual = gson.fromJson(json, Number.class);
+    assertEquals(expected.longValue(), actual.longValue());
+
+    json = "1.0";
+    actual = gson.fromJson(json, Number.class);
+    assertEquals(1L, actual.longValue());
+  }
+
 }

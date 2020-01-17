@@ -1,31 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40363c80-9721-4cb0-aedc-76ce4a201463" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../InvariantsPluginGradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../InvariantsPluginGradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InvariantsPluginGradle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../InvariantsPluginGradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InvariantsPluginGradle/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../InvariantsPluginGradle/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InvariantsPluginGradle/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../InvariantsPluginGradle/gradlew.bat" afterDir="false" />
+    <list default="true" id="315391af-a4aa-4215-a24a-988f72e94098" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/corac.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InvariantsPluginGradle/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InvariantsPluginGradle/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InvariantsPluginGradle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InvariantsPluginGradle/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.google.code.gson.gson_sub.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ca_mcgill_sable_jasmin_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ca_mcgill_sable_java_cup_0_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ca_mcgill_sable_polyglot_2006.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ca_mcgill_sable_soot_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_javaparser_javaparser_core_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_javaparser_javaparser_symbol_solver_core_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_javaparser_javaparser_symbol_solver_logic_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_javaparser_javaparser_symbol_solver_model_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_27_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__heros_heros_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_qual_2_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_functionaljava_functionaljava_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_24_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_3_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_debug_all_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_smali_dexlib2_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__pxb_android_axml_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__xmlpull_xmlpull_1_1_3_4d_b4_min.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1073759818/edu.ucsd.invariants.InvariantsPlugin.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gson_sub/gson_sub.gson_sub.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/gson/internal/LazilyParsedNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/gson/internal/LazilyParsedNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/gson/functional/PrimitiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/gson/functional/PrimitiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/gson_sub/.gradle/" />
-    <ignored path="$PROJECT_DIR$/gson_sub/build/" />
     <ignored path="$PROJECT_DIR$/../InvariantsPluginGradle/.gradle/" />
     <ignored path="$PROJECT_DIR$/../InvariantsPluginGradle/build/" />
     <ignored path="$PROJECT_DIR$/../InvariantsPluginGradle/out/" />
@@ -35,62 +72,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <task path="$PROJECT_DIR$/gson_sub">
-          <activation />
-        </task>
-        <task path="$PROJECT_DIR$/../InvariantsPluginGradle">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="gson_sub" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="gson_sub" type="f1a62948:ProjectNode" />
-                <item name="gson_sub" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="gson_sub" type="f1a62948:ProjectNode" />
-                <item name="gson_sub" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="gson_sub" type="f1a62948:ProjectNode" />
-                <item name="gson_sub" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/JsonObjectTest.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+            <state relative-caret-position="123">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,46 +100,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/InheritanceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/PrimitiveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+            <state relative-caret-position="53">
+              <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/CustomDeserializerTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/google/gson/internal/LazilyParsedNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/TypeVariableTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java-templates/com/google/gson/internal/GsonBuildConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="252">
+              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -147,7 +121,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>GsonBuil</find>
+      <find>long</find>
+      <find>value</find>
+      <find>longvalue</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,101 +132,118 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java-templates/com/google/gson/internal/GsonBuildConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/google/gson/Gson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/google/gson/internal/GsonBuildConfig.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/google/gson/JsonObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/google/gson/functional/PrimitiveTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/google/gson/internal/LazilyParsedNumber.java" />
       </list>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
-    <option name="width" value="1219" />
-    <option name="height" value="761" />
+    <option name="x" value="21" />
+    <option name="width" value="1325" />
+    <option name="height" value="738" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="google" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="google" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="code" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="google" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="code" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="gson" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="google" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="code" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="gson" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="gson_sub" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gson" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gson" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="ucsd" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="gson_sub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="ucsd" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="invariants" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="innergson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="innergson" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gson" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556834092746" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/google/gson/internal" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin.scripting" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,109 +257,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.gson_sub [cleanInvariants]">
-    <configuration name="gson_sub [callgraph]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="callgraph" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
+  <component name="RunManager" selected="JUnit.LazilyParsedNumberTest.testLongValue">
+    <configuration name="LazilyParsedNumberTest.testIntValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="innergson.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.gson.internal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.gson.internal" />
+      <option name="MAIN_CLASS_NAME" value="com.google.gson.internal.LazilyParsedNumberTest" />
+      <option name="METHOD_NAME" value="testIntValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="gson_sub [cleanCallgraph]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="cleanCallgraph" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="LazilyParsedNumberTest.testLongValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="innergson.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.gson.internal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.gson.internal" />
+      <option name="MAIN_CLASS_NAME" value="com.google.gson.internal.LazilyParsedNumberTest" />
+      <option name="METHOD_NAME" value="testLongValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="gson_sub [cleanInvariants]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="cleanInvariants" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="gson_sub [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="gson_sub [invariants]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="invariants" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="PrimitiveTest.testNumberDeserialization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="innergson.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.gson.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.gson.functional" />
+      <option name="MAIN_CLASS_NAME" value="com.google.gson.functional.PrimitiveTest" />
+      <option name="METHOD_NAME" value="testNumberDeserialization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.gson_sub [cleanInvariants]" />
-        <item itemvalue="Gradle.gson_sub [cleanCallgraph]" />
-        <item itemvalue="Gradle.gson_sub [invariants]" />
-        <item itemvalue="Gradle.gson_sub [callgraph]" />
-        <item itemvalue="Gradle.gson_sub [clean]" />
+        <item itemvalue="JUnit.LazilyParsedNumberTest.testLongValue" />
+        <item itemvalue="JUnit.LazilyParsedNumberTest.testIntValue" />
+        <item itemvalue="JUnit.PrimitiveTest.testNumberDeserialization" />
       </list>
     </recent_temporary>
   </component>
@@ -375,186 +319,142 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="40363c80-9721-4cb0-aedc-76ce4a201463" name="Default Changelist" comment="" />
-      <created>1556824297322</created>
+      <changelist id="315391af-a4aa-4215-a24a-988f72e94098" name="Default Changelist" comment="" />
+      <created>1579232380578</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1556824297322</updated>
+      <updated>1579232380578</updated>
+      <workItem from="1579232384820" duration="2390000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="LazilyParsedNumberTest_testLongValue - 2020.01.16 at 20h 12m 52s.xml">
+      <configuration name="LazilyParsedNumberTest.testLongValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testIntValue - 2020.01.16 at 20h 14m 05s.xml">
+      <configuration name="LazilyParsedNumberTest.testIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testIntValue - 2020.01.16 at 20h 14m 34s.xml">
+      <configuration name="LazilyParsedNumberTest.testIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testLongValue - 2020.01.16 at 20h 14m 56s.xml">
+      <configuration name="LazilyParsedNumberTest.testLongValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testIntValue - 2020.01.16 at 20h 15m 14s.xml">
+      <configuration name="LazilyParsedNumberTest.testIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testLongValue - 2020.01.16 at 20h 15m 19s.xml">
+      <configuration name="LazilyParsedNumberTest.testLongValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testIntValue - 2020.01.16 at 20h 17m 24s.xml">
+      <configuration name="LazilyParsedNumberTest.testIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testIntValue - 2020.01.16 at 20h 17m 45s.xml">
+      <configuration name="LazilyParsedNumberTest.testIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testIntValue - 2020.01.16 at 20h 19m 17s.xml">
+      <configuration name="LazilyParsedNumberTest.testIntValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LazilyParsedNumberTest_testLongValue - 2020.01.16 at 20h 19m 23s.xml">
+      <configuration name="LazilyParsedNumberTest.testLongValue" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2390000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="0" width="1219" height="761" extended-state="0" />
+    <frame x="21" y="0" width="1325" height="738" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25233644" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24941543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="DiffToolWindow" weight="0.32884902" />
+      <window_info anchor="bottom" id="Build" weight="0.34520122" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.3281372" side_tool="true" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49961028" weight="0.32972136" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884902" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.67186284" visible="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884902" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32884902" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.32884902" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32884902" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497876" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32965165" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.29651657" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2497876" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32884902" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.32884902" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32884902" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32884902" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.3024639" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32965165" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.2497876" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java" />
-    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/gson/internal/GsonBuildConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/gson/Gson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="944" column="85" selection-start-line="944" selection-start-column="85" selection-end-line="944" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/JsonPrimitiveTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="116">
+          <caret line="216" column="64" selection-start-line="216" selection-start-column="59" selection-end-line="216" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/InheritanceTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        <state relative-caret-position="251">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/CustomDeserializerTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="15">
+          <caret line="469" column="42" selection-start-line="469" selection-start-column="42" selection-end-line="469" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/TypeVariableTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java-templates/com/google/gson/internal/GsonBuildConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/JsonObjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        <state relative-caret-position="123">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/gson/functional/PrimitiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/gson/internal/LazilyParsedNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Kotlin</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -578,19 +478,6 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>com.google.code.gson.gson_sub</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -605,7 +492,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
