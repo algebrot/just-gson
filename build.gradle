@@ -20,11 +20,11 @@ version = '2.8.4-SNAPSHOT'
 description = "gson"
 
 tasks.wrapper {
-    gradleVersion = 5.4
+    gradleVersion = "6.1.1"
 }
 
 apply plugin: 'java'
-apply plugin: 'maven'
+//apply plugin: 'maven'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
@@ -34,7 +34,7 @@ test {
 }
 
 dependencies {
-    testCompile "junit:junit:4.12"
+    testImplementation "junit:junit:4.12"
 }
 
 apply plugin: 'invariants-plugin'
