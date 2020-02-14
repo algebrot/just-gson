@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <compositeConfiguration>
           <compositeBuild compositeDefinitionSource="SCRIPT">
             <builds>
-              <build path="$PROJECT_DIR$/../InvariantsPluginGradle">
+              <build path="$PROJECT_DIR$/../InvariantsPluginGradle" name="InvariantsPlugin">
                 <projects>
                   <project path="$PROJECT_DIR$/../InvariantsPluginGradle" />
                 </projects>
@@ -14,6 +15,8 @@
             </builds>
           </compositeBuild>
         </compositeConfiguration>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">

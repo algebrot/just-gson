@@ -50,7 +50,7 @@ public final class LazilyParsedNumber extends Number {
     try {
       return Long.parseLong(value);
     } catch (NumberFormatException e) {
-      return new BigDecimal(value).longValue();
+      return new BigInteger(value).longValue();
     }
   }
 
