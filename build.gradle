@@ -6,7 +6,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath("edu.ucsd.invariants:InvariantsPlugin:0.1-beta")
+        classpath("edu.ucsd.invariants:InvariantsPlugin:0.2-beta")
     }
 }
 
@@ -20,7 +20,7 @@ version = '2.8.4-SNAPSHOT'
 description = "gson"
 
 tasks.wrapper {
-    gradleVersion = "6.1.1"
+    gradleVersion = "6.7.1"
 }
 
 apply plugin: 'java'
